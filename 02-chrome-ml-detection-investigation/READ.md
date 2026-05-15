@@ -280,5 +280,15 @@ In Progress
 
 Because the alert needs more investigation before final classification.
 
+### Scope Assessment
 
+```text
+
+Affected computers: 1
+
+First written host: LAPTOP-J26AI80A
+
+Last written host: LAPTOP-J26AI80A
+
+Scope: Single-host scope
 
